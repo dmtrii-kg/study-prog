@@ -23,7 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		B4CA2A48256BCC6600C04F9E /* test7 (vector) */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "test7 (vector)"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B4CA2A48256BCC6600C04F9E /* test7 (sequence containers) */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "test7 (sequence containers)"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4CA2A4B256BCC6600C04F9E /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -41,7 +41,7 @@
 		B4CA2A3F256BCC6600C04F9E = {
 			isa = PBXGroup;
 			children = (
-				B4CA2A4A256BCC6600C04F9E /* test7 (vector) */,
+				B4CA2A4A256BCC6600C04F9E /* test7 (sequence containers) */,
 				B4CA2A49256BCC6600C04F9E /* Products */,
 			);
 			sourceTree = "<group>";
@@ -49,25 +49,25 @@
 		B4CA2A49256BCC6600C04F9E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B4CA2A48256BCC6600C04F9E /* test7 (vector) */,
+				B4CA2A48256BCC6600C04F9E /* test7 (sequence containers) */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		B4CA2A4A256BCC6600C04F9E /* test7 (vector) */ = {
+		B4CA2A4A256BCC6600C04F9E /* test7 (sequence containers) */ = {
 			isa = PBXGroup;
 			children = (
 				B4CA2A4B256BCC6600C04F9E /* main.cpp */,
 			);
-			path = "test7 (vector)";
+			path = "test7 (sequence containers)";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		B4CA2A47256BCC6600C04F9E /* test7 (vector) */ = {
+		B4CA2A47256BCC6600C04F9E /* test7 (sequence containers) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B4CA2A4F256BCC6600C04F9E /* Build configuration list for PBXNativeTarget "test7 (vector)" */;
+			buildConfigurationList = B4CA2A4F256BCC6600C04F9E /* Build configuration list for PBXNativeTarget "test7 (sequence containers)" */;
 			buildPhases = (
 				B4CA2A44256BCC6600C04F9E /* Sources */,
 				B4CA2A45256BCC6600C04F9E /* Frameworks */,
@@ -77,9 +77,9 @@
 			);
 			dependencies = (
 			);
-			name = "test7 (vector)";
+			name = "test7 (sequence containers)";
 			productName = "test7 (staticTemplate)";
-			productReference = B4CA2A48256BCC6600C04F9E /* test7 (vector) */;
+			productReference = B4CA2A48256BCC6600C04F9E /* test7 (sequence containers) */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -96,7 +96,7 @@
 					};
 				};
 			};
-			buildConfigurationList = B4CA2A43256BCC6600C04F9E /* Build configuration list for PBXProject "test7 (vector)" */;
+			buildConfigurationList = B4CA2A43256BCC6600C04F9E /* Build configuration list for PBXProject "test7 (sequence containers)" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -109,7 +109,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				B4CA2A47256BCC6600C04F9E /* test7 (vector) */,
+				B4CA2A47256BCC6600C04F9E /* test7 (sequence containers) */,
 			);
 		};
 /* End PBXProject section */
@@ -258,7 +258,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		B4CA2A43256BCC6600C04F9E /* Build configuration list for PBXProject "test7 (vector)" */ = {
+		B4CA2A43256BCC6600C04F9E /* Build configuration list for PBXProject "test7 (sequence containers)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B4CA2A4D256BCC6600C04F9E /* Debug */,
@@ -267,7 +267,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B4CA2A4F256BCC6600C04F9E /* Build configuration list for PBXNativeTarget "test7 (vector)" */ = {
+		B4CA2A4F256BCC6600C04F9E /* Build configuration list for PBXNativeTarget "test7 (sequence containers)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B4CA2A50256BCC6600C04F9E /* Debug */,

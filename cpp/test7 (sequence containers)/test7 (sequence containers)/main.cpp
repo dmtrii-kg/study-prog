@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  test7 (vector)
+//  test7 (sequence containers)
 //
 //  Created by dmtrii on 23.11.2020.
 //  Copyright © 2020 dmtrii. All rights reserved.
